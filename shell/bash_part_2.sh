@@ -95,3 +95,5 @@ tail -n30 test.log
 tail -n30 test.log
 tail -n30 test.log
 tail -n30 test.log
+
+DONE
