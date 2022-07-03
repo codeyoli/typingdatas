@@ -19,7 +19,7 @@ git add data.json
 git add Demo.java
 git add pom.xml
 
-# make a snapshot or backup or project
+# make a snapshot or backup of project
 git commit
 git commit -m "message"
 
@@ -28,3 +28,5 @@ git log
 git log --oneline
 git log --graph
 git log -n5
+
+DONE
