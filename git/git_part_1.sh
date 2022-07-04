@@ -5,10 +5,10 @@ git config --global user.name "name"
 git config --global user.name "name"
 
 # configure an email
-git config --global user.name "email@gmail.com"
-git config --global user.name "email@gmail.com"
-git config --global user.name "email@gmail.com"
-git config --global user.name "email@gmail.com"
+git config --global user.email "you@gmail.com"
+git config --global user.email "you@gmail.com"
+git config --global user.email "you@gmail.com"
+git config --global user.email "you@gmail.com"
 
 # create a repository in the project root directory
 git init
