@@ -1,4 +1,4 @@
-public class Variables {
+public class TextOutput {
 
     @Test
     public void output(){
