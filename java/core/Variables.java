@@ -1,9 +1,8 @@
-
 public class Variables {
 
     @Test
     public void variableIntro() {
-        // Create varaibles
+        // Create variable
         int age = 29;
         double pi = 3.14;
         char grade = 'c';
@@ -25,3 +24,4 @@ public class Variables {
         System.out.println(report);
     }
 }
+DONE
