@@ -4,5 +4,4 @@ public class Program {
         System.out.println("Let's learn some coding!");
     }
 }
-
 DONE
